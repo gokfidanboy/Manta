@@ -18,7 +18,7 @@
   </a>
 </h2>
 
-A desktop application for creating invoices with beautiful and customizable templates.
+A desktop application for creating invoices with nice and customizable templates.
 
 <a href="#screenshots">Screenshots</a> •
 <a href="#features">Features</a> •
